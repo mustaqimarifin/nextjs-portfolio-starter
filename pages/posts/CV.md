@@ -24,11 +24,7 @@ author: You
 1. Python
 1. Git / SVN
 1. Cordova
-<!-- 1. Spring / Wicket -->
 1. Ruby
-<!-- 1. Weblogic / Websphere -->
-<!-- 1. Tomcat / Jetty -->
-<!-- 1. Oracle DB / MSSQL -->
 1. PostgreSQL / MySQL
 1. Backbone.js
 
@@ -36,7 +32,7 @@ author: You
 
 ### Experience
 
-**NTTData** *Senior Consultant* 								__2012 to present__
+**NTTData** *Senior Consultant* __2012 to present__
 	Designed Backbone.js based application to replace and improve upon existing legacy system.
 	Introduced BDD style testing using Jasmine/Karma into existing application code.
 	Developed modern solutions and features for large Enterprise Java systems.
@@ -56,17 +52,11 @@ author: You
 	Created detailed documentation regarding technical requirements, project time lines and staffing guidelines for realizing total product offering.
 	**Technical Environment** Wowza Media Server, Adobe Flex, Javascript.
 
-<!--
-**Redline Distribution** *Web Application Developer* __2008__
-	Wrote a versatile Java EE based, database-driven, e-commerce system for the real time sale, processing and shipping of products available from external distributors such as Baker-Taylor and DeepDiscount.
-	The system interfaced with external distributors to ensure current inventory, status and price and used AJAX rich components to improve usability, convenience and efficiency.
-	**Technical Environment** JBoss, Seam, MySQL, Hibernate, JSF, RichFaces, EJB.
--->
-
 **CIBC** *Test Analyst* __2007 to 2008__
 	Eliminated manual testing processes with automated QTP scripts to increase productivity and limit repetitive human task based testing.
 	Worked cohesively with other developers and team members to plan, design and implement multi-system automated tests which simulate multiple users and roles.
-	**Technical Environment** VB, Quick Test Professional.
+	
+**Technical Environment** VB, Quick Test Professional.
 
 ------
 
@@ -143,8 +133,6 @@ Associate, *French Academy of Science*, Paris, France
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
 ### Journals
 
 `1669`
@@ -171,11 +159,5 @@ __Royal Mint__, London
 
 `1600`
 __Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
 
 
